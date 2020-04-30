@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Plataforma_Beta_01",
+"productVersion": "0.1",
+"dataUrl": "Prueba Web.data.unityweb",
+"wasmCodeUrl": "Prueba Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Prueba Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.6f1"
+}
